@@ -1,6 +1,6 @@
 <h1 align="center">Parthkumar Mungra</h1>
 <p align="center">
-Distributed Systems Researcher • Peer-to-Peer Architect • Systems Engineer
+Distributed Systems• Peer-to-Peer Architect • Systems Engineer
 </p>
 
 ---
@@ -41,19 +41,6 @@ Leaderless gossip-based monitoring system for volatile edge environments.
 
 🔗 https://github.com/parth-1372/EdgeWatch
 
----
-
-### 🔹 MiniP2P – Peer-to-Peer File Distribution Network  
-Minimal decentralized file-sharing system.
-
-- Peer discovery and membership propagation  
-- Chunk-based replication  
-- SHA256 integrity verification  
-- Heartbeat-based failure detection  
-
-🔗 https://github.com/parth-1372/MiniP2P
-
----
 
 ## 🛠 Core Technical Focus
 
