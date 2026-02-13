@@ -1,37 +1,89 @@
-<h1 align="center">Hi 👋, I'm Parth Mungra</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-1372&label=Profile%20views&color=0e75b6&style=flat" alt="parth-1372" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-1372" alt="parth-1372" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on **Hackathons And Paid Projects**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-red-85.vercel.app/](https://portfolio-iota-red-85.vercel.app/)
-
-- 💬 Ask me about **Competative Programming And Web development**
-
-- 📫 How to reach me **parthmungra1372@gmail.com**
-
-- ⚡ Fun fact **I have a PhD in overthinking, but I'm also a master at convincing myself to “deal with it tomorrow**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parth-mungra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-mungra" height="30" width="40" /></a>
-<a href="https://instagram.com/parth_patel137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_patel137" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parth_137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parth_137" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parthmungra1372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parthmungra1372" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parth_1372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parth_1372" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/justcodr11d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="justcodr11d" height="30" width="40" /></a>
+<h1 align="center">Parthkumar Mungra</h1>
+<p align="center">
+Distributed Systems Researcher • Peer-to-Peer Architect • Systems Engineer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-1372&show_icons=true&locale=en&layout=compact" alt="parth-1372" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-1372&show_icons=true&locale=en" alt="parth-1372" /></p>
+I design and build **decentralized, leaderless distributed systems** focused on scalability, fault tolerance, and efficient network communication.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-1372&" alt="parth-1372" /></p>
+- 🎓 Integrated B.Tech + M.Tech (IT), IIIT Gwalior (CGPA: 9.0)
+- 📄 IEEE Q1 Published Author
+- 🧠 Research focus: Gossip Protocols, Resource-Aware Distributed Monitoring, P2P Systems
+- 🏆 LeetCode Guardian (Top 1.3% Global)
+
+---
+
+## 🔬 Research & Publications
+
+### 📡 Hybrid Cyclostationary and ML-Driven Spectrum Access  
+Published in *IEEE Wireless Communications Letters (Q1)*  
+[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11373298)
+
+### 🌐 Resource-Aware Decentralized Monitoring Using Value-of-Information Gossiping  
+Under Review – IEEE Networking Letters  
+
+Designed a decentralized monitoring framework reducing network transmissions by **50–75%** while improving projected device battery life by **52.5%**.
+
+---
+
+## 🏗 Featured Systems Projects
+
+### 🔹 EdgeWatch – Decentralized Monitoring Framework  
+Leaderless gossip-based monitoring system for volatile edge environments.  
+
+- Stochastic push–pull gossip dissemination  
+- Value-of-Information priority filtering  
+- Docker-based multi-node simulation  
+- Fault-tolerant and bandwidth-optimized  
+
+🔗 https://github.com/parth-1372/EdgeWatch
+
+---
+
+### 🔹 MiniP2P – Peer-to-Peer File Distribution Network  
+Minimal decentralized file-sharing system.
+
+- Peer discovery and membership propagation  
+- Chunk-based replication  
+- SHA256 integrity verification  
+- Heartbeat-based failure detection  
+
+🔗 https://github.com/parth-1372/MiniP2P
+
+---
+
+## 🛠 Core Technical Focus
+
+**Distributed Systems**
+- Gossip Protocols
+- Replication & Consistency Models
+- Leaderless Architectures
+- Fault Tolerance
+
+**Networking**
+- TCP/UDP
+- Peer Discovery
+- Message Dissemination
+
+**Systems & Infrastructure**
+- Docker
+- Linux Internals
+- System Design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=parth-1372&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 parthmungra1372@gmail.com  
+🔗 https://www.linkedin.com/in/parth-mungra/  
