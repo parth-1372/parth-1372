@@ -1,76 +1,59 @@
-<h1 align="center">Parthkumar Mungra</h1>
+<h1 align="center">Hi, I'm Parth Mungra 👋</h1>
 <p align="center">
-Distributed Systems• Peer-to-Peer Architect • Systems Engineer
+Software Engineer • Distributed Systems Enthusiast • Backend Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I design and build **decentralized, leaderless distributed systems** focused on scalability, fault tolerance, and efficient network communication.
+I am a Software Engineering focused developer interested in building scalable backend systems and distributed architectures.
 
 - 🎓 Integrated B.Tech + M.Tech (IT), IIIT Gwalior (CGPA: 9.0)
-- 📄 IEEE Q1 Published Author
-- 🧠 Research focus: Gossip Protocols, Resource-Aware Distributed Monitoring, P2P Systems
+- 💻 Backend & Systems Development
+- 🌐 Strong interest in Distributed Systems & Peer-to-Peer Architectures
 - 🏆 LeetCode Guardian (Top 1.3% Global)
 
 ---
 
-## 🔬 Research & Publications
+## 🏗 Featured Projects
 
-### 📡 Hybrid Cyclostationary and ML-Driven Spectrum Access  
-Published in *IEEE Wireless Communications Letters (Q1)*  
-[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11373298)
+### 🔹 EdgeWatch – Decentralized Monitoring System  
+Distributed monitoring framework for volatile edge environments.
 
-### 🌐 Resource-Aware Decentralized Monitoring Using Value-of-Information Gossiping  
-Under Review – IEEE Networking Letters  
-
-Designed a decentralized monitoring framework reducing network transmissions by **50–75%** while improving projected device battery life by **52.5%**.
-
----
-
-## 🏗 Featured Systems Projects
-
-### 🔹 EdgeWatch – Decentralized Monitoring Framework  
-Leaderless gossip-based monitoring system for volatile edge environments.  
-
-- Stochastic push–pull gossip dissemination  
-- Value-of-Information priority filtering  
+- Leaderless architecture using gossip-based communication  
+- Resource-aware metric dissemination  
+- Reduced network transmissions by 50–75%  
 - Docker-based multi-node simulation  
-- Fault-tolerant and bandwidth-optimized  
 
 🔗 https://github.com/parth-1372/EdgeWatch
 
+---
 
-## 🛠 Core Technical Focus
 
-**Distributed Systems**
-- Gossip Protocols
-- Replication & Consistency Models
-- Leaderless Architectures
-- Fault Tolerance
 
-**Networking**
-- TCP/UDP
-- Peer Discovery
-- Message Dissemination
+## 📄 Publication
 
-**Systems & Infrastructure**
-- Docker
-- Linux Internals
-- System Design
+**Hybrid Cyclostationary and ML-Driven Spectrum Access**  
+Published in *IEEE Wireless Communications Letters (Q1)*  
+
+🔗 https://ieeexplore.ieee.org/document/11373298  
+
+(Worked on distributed signal processing and system-level optimization.)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Technical Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parth-1372&show_icons=true&hide_border=true" />
-</p>
+**Languages:** C++, Go (learning), Python, JavaScript  
+**Backend:** Node.js, Express, REST APIs  
+**Distributed Systems:** Gossip Protocols, Replication Concepts, Fault Tolerance  
+**Infrastructure:** Docker, Linux  
 
 ---
 
-## 📫 Contact
+
+## 📫 Connect
 
 📧 parthmungra1372@gmail.com  
 🔗 https://www.linkedin.com/in/parth-mungra/  
